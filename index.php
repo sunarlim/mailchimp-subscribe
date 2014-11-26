@@ -50,6 +50,7 @@
 				</div>
 			</fieldset>
 		</form>
+		<div id="response"></div>
 	</div>
 </body>
 </html>
